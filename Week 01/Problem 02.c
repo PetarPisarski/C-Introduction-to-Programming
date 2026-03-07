@@ -9,7 +9,7 @@ int main() {
 
     number = number + 1;
 
-    printf("Your number + 1 is equal to: %d", number);
+    printf("The SUCC result is: %d", number);
 
     return 0;
 }

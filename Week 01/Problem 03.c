@@ -9,7 +9,7 @@ int main() {
 
     number = number - 1;
 
-    printf("Your number -1 is equal to %d\n", number);
+    printf("The PRED result is: %d\n", number);
 
     return 0;
 }
