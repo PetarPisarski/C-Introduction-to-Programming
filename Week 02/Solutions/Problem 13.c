@@ -7,13 +7,13 @@ int main() {
     int numberThree =   0;
 
 
-    puts("Enter the Number 1: \n");
+    puts("Enter the Number 1: ");
     scanf("%d", &numberOne);
 
-    puts("Enter the Number 2: \n");
+    puts("Enter the Number 2: ");
     scanf("%d", &numberTwo);
 
-    puts("Enter the Number 3: \n");
+    puts("Enter the Number 3: ");
     scanf("%d", &numberThree);
 
 

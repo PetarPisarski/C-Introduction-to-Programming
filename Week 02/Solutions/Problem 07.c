@@ -7,13 +7,13 @@ int main () {
     double numberTwo;
     double numberThree;
 
-    puts("Please enter the first number");
+    puts("Please enter the first number: ");
     scanf("%lf", &numberOne);
 
-    puts("Please enter the second number");
+    puts("Please enter the second number: ");
     scanf("%lf", &numberTwo);
 
-    puts("Please enter the third number");
+    puts("Please enter the third number: ");
     scanf("%lf", &numberThree);
 
     double arithmeticMean = (numberOne + numberTwo + numberThree) / 3;

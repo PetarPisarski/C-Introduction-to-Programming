@@ -5,10 +5,10 @@ int main() {
     int numberOne = 0;
     int numberTwo = 0;
 
-    puts("Enter your first Number: \n");
+    puts("Enter your first Number: ");
     scanf("%d", &numberOne);
 
-    puts("Enter your second Number: \n");
+    puts("Enter your second Number: ");
     scanf("%d", &numberTwo);
 
     int minNumber = (numberOne < numberTwo) ? numberOne : numberTwo;

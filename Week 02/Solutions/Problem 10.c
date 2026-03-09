@@ -4,7 +4,7 @@ int main() {
 
     int year = 0;
 
-    puts("Enter your year: \n");
+    puts("Enter your year: ");
     scanf("%d", &year);
 
     int condition1 = ((year % 4 == 0) && (year % 100 != 0));

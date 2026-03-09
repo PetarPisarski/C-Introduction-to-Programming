@@ -5,9 +5,9 @@ int main() {
     double  X   =   0.0;
     double  Y   =   0.0;
 
-    puts("Enter your X: \n");
+    puts("Enter your X: ");
     scanf("%lf", &X);
-    puts("Enter your Y: \n");
+    puts("Enter your Y: ");
     scanf("%lf", &Y);
 
 

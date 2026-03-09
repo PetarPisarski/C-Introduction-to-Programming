@@ -4,7 +4,7 @@ int  main() {
 
     char letter;
 
-    puts("Please enter the letter you want to transform into lowercase: \n");
+    puts("Please enter the letter you want to transform into lowercase: ");
     scanf("%c", &letter);
 
     printf("The letter you've entered in lowercase is: %c\n", letter + 32);

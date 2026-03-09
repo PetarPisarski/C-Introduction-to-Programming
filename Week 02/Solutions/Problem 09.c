@@ -4,7 +4,7 @@ int main() {
 
     int number;
 
-    puts("Please enter your 4-digit number: \n");
+    puts("Please enter your 4-digit number: ");
     scanf("%d", &number);
 
     int digit1 = number % 10;

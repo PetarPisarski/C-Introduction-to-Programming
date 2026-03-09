@@ -42,9 +42,9 @@ void distanceInTwoDimension() {
     double y2 = 0.0;
 
 
-    puts("Enter the coordinates of Point 1: \n");
+    puts("Enter the coordinates of Point 1: ");
     scanf("%lf %lf", &x1, &y1);
-    puts("Enter the coordinates of Point 2: \n");
+    puts("Enter the coordinates of Point 2: ");
     scanf("%lf %lf", &x2, &y2);
 
 
